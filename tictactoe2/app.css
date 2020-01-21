@@ -1,9 +1,21 @@
+body{
+
+    background: url(https://cdn.shopify.com/s/files/1/0149/4340/products/mockup_Default_Default_3x3_897ce4be-e03d-4548-a8a9-f2e401788b96_1024x1024.jpg?v=1561475320) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+
 td {
 	border:  2px solid #333;
 	height:  100px;
 	width:  100px;
 	text-align:  center;
-	vertical-align:  middle;
+	/* vertical-align:  middle; */
 	font-family:  "Comic Sans MS", cursive, sans-serif;
 	font-size:  70px;
 	cursor: pointer;
